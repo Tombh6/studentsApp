@@ -5,10 +5,15 @@ Android project
 In this assignment i program a simple subscribers repository
 with the following functionality:
 1. The program will have 4 screens:
+
 ● Students List
+
 ● New Student
+
 ● Student details
+
 ● Edit Student
+
 2. The Student list presents the complete list of students. each row will
 present the student pic, name, id and checkbox that mark the check
 status of the student. pressing the check button will change the check
