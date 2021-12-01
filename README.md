@@ -1,10 +1,12 @@
 # studentsApp
 Android project
 
+YouTube link:https://youtu.be/KxFwBZ9k_ns
 
-In this assignment i program a simple subscribers repository
+
+In this assignment i programmed a simple subscribers repository
 with the following functionality:
-1. The program will have 4 screens:
+1. The program has 4 screens:
 
 ● Students List
 
